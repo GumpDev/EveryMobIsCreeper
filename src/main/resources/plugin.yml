@@ -1,0 +1,4 @@
+name: EveryMobIsCreeper
+version: ${project.version}
+main: net.gumpdev.everymobiscreeper.EveryMobIsCreeper
+api-version: 1.16
